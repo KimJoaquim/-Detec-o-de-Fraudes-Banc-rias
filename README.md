@@ -69,4 +69,8 @@
 ## 📈 Próximos Passos
 - Testar algoritmos de Deep Learning (LSTM, Redes Neurais).  
 - Implementar **detecção em tempo real** com streaming de dados.  
-- Aplicar técnicas avançadas de **explainable AI (SHAP, LIME)** para auditoria e compliance. 
+- Aplicar técnicas avançadas de **explainable AI (SHAP, LIME)** para auditoria e compliance.
+
+- Instale as dependências
+
+pip install -r requirements.txt
