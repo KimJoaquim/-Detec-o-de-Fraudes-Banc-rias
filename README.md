@@ -1,4 +1,4 @@
-# -Detec-o-de-Fraudes-Banc-rias > bank-fraud-detection
+# bank-fraud-detection
 ## 📌 Problema de Negócio Fraudes bancárias representam bilhões em perdas todos os anos, além de reduzirem a confiança do cliente nas instituições financeiras.   O objetivo deste projeto é **desenvolver um modelo de Machine Learning capaz de identificar transações fraudulentas com alta precisão**, reduzindo prejuízos e aumentando a segurança.
 ---
 
